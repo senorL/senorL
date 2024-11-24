@@ -1,7 +1,7 @@
 ### Me at GitHub
 
 
-![](https://github-readme-stats.vercel.app/api?username=senorl&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=senorL&theme=transparent)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=senorL&theme=transparent)
 
