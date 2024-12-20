@@ -2,6 +2,11 @@
 
 Welcome to my GitHub profile! 
 
+## 📈 GitHub Stats
+
+![SenorL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senorL&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senorL&layout=compact&theme=radical)
+
 ## 🚀 About Me
 
 - 🌱 I’m constantly learning and exploring new technologies.
@@ -20,13 +25,6 @@ Here are some of the cool projects I've been working on:
 
 ### [MIT6.S081](https://github.com/senorL/MIT6.S081)
 A OS project in MIT.
-
-
-
-## 📈 GitHub Stats
-
-![SenorL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senorL&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senorL&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
 
