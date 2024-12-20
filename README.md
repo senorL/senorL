@@ -18,7 +18,7 @@ Welcome to my GitHub profile!
 
 Here are some of the cool projects I've been working on:
 
-### [Awesome Project](https://github.com/senorL/MIT6.S081)
+### [MIT6.S081](https://github.com/senorL/MIT6.S081)
 A OS project in MIT.
 
 
