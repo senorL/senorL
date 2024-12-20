@@ -1,8 +1,6 @@
 # Hey there, I'm SenorL 👋
 
-Welcome to my GitHub profile! Here's a little about me:
-
-![Profile Views](https://komarev.com/ghpvc/?username=senorL&color=blue)
+Welcome to my GitHub profile! 
 
 ## 🚀 About Me
 
