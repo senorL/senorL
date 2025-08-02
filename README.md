@@ -1,6 +1,5 @@
-# Hey there, I'm SenorL
+# I'm SenorL
 
-Welcome to my GitHub profile! 
 
 ## GitHub Stats
 
@@ -12,4 +11,3 @@ Welcome to my GitHub profile!
 - **Email:** [l-senor@outlook.com](mailto:l-senor@outlook.com)
 
 
-Thanks for visiting my profile! 🚀
