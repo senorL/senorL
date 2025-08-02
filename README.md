@@ -1,7 +1,4 @@
-# I'm SenorL
-
-
-## GitHub Stats
+## I'm Senor
 
 ![SenorL's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senorL&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senorL&layout=compact&theme=radical)
