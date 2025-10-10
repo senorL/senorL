@@ -5,6 +5,6 @@
 
 ## My Email
 
-- **Email:** [l-senor@outlook.com](mailto:l-senor@outlook.com)
+- **Email:** [l.senor@outlook.com](mailto:l.senor@outlook.com)
 
 
